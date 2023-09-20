@@ -1,0 +1,3 @@
+/home/barthmalemew/Documents/Projects/CS1010-11/Assignments/Project1ADV/cmake-build-debug/CMakeFiles/Project1ADV.dir
+/home/barthmalemew/Documents/Projects/CS1010-11/Assignments/Project1ADV/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/barthmalemew/Documents/Projects/CS1010-11/Assignments/Project1ADV/cmake-build-debug/CMakeFiles/rebuild_cache.dir
