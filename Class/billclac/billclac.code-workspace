@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Personal/Google"
+		},
+		{
+			"path": "../../Labs/Calculator"
+		},
+		{
+			"path": "../../Labs/Xcalc"
+		},
+		{
+			"path": "../../Labs/Employeepay"
+		}
+	],
+	"settings": {}
+}
